@@ -47,7 +47,7 @@ You can build the documentation with :
 cargo doc --open --lib --no-deps
 ```
 
-## Concepts
+## Layout detection
 
 ### Shape (width/heigt) and spacing (vertical/horizontal)
 
