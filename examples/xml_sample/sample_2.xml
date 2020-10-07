@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCUMENT>
+       <METADATA>
+              <PDFFILENAME>sample_2.pdf</PDFFILENAME>
+              <PROCESS name="pdftoxml" cmd="-noImage -blocks ">
+                     <VERSION value="2.0">
+                            <COMMENT />
+                     </VERSION>
+                     <CREATIONDATE>Tue Sep 29 14:20:44 2020
+</CREATIONDATE>
+              </PROCESS>
+       </METADATA>
+       <BLOCK id="p1_b9" x="132.831" y="461.006" height="11.0666" width="346.339">
+              <TEXT width="346.339" height="11.0666" id="p1_t10" x="132.831" y="461.006">
+                     <TOKEN sid="p1_s44" id="p1_w44" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="132.831" y="461.006" base="469.306" width="25.5097" height="11.0666">Thèse</TOKEN>
+                     <TOKEN sid="p1_s45" id="p1_w45" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="161.658" y="461.006" base="469.306" width="37.9574" height="11.0666">soutenue</TOKEN>
+                     <TOKEN sid="p1_s46" id="p1_w46" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="202.943" y="461.006" base="469.306" width="59.2065" height="11.0666">publiquement</TOKEN>
+                     <TOKEN sid="p1_s47" id="p1_w47" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="265.467" y="461.006" base="469.306" width="7.19458" height="11.0666">le</TOKEN>
+                     <TOKEN sid="p1_s48" id="p1_w48" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="275.979" y="461.006" base="469.306" width="9.96062" height="11.0666">21</TOKEN>
+                     <TOKEN sid="p1_s49" id="p1_w49" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="289.258" y="461.006" base="469.306" width="43.4693" height="11.0666">Novembre</TOKEN>
+                     <TOKEN sid="p1_s50" id="p1_w50" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="336.044" y="461.006" base="469.306" width="19.9212" height="11.0666">2019</TOKEN>
+                     <TOKEN sid="p1_s51" id="p1_w51" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="359.283" y="461.006" base="469.306" width="28.7767" height="11.0666">devant</TOKEN>
+                     <TOKEN sid="p1_s52" id="p1_w52" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="391.377" y="461.006" base="469.306" width="7.19458" height="11.0666">le</TOKEN>
+                     <TOKEN sid="p1_s53" id="p1_w53" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="401.9" y="461.006" base="469.306" width="17.7334" height="11.0666">jury</TOKEN>
+                     <TOKEN sid="p1_s54" id="p1_w54" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="422.95" y="461.006" base="469.306" width="36.8564" height="11.0666">composé</TOKEN>
+                     <TOKEN sid="p1_s55" id="p1_w55" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="463.124" y="461.006" base="469.306" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s56" id="p1_w56" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="476.403" y="461.006" base="469.306" width="2.76724" height="11.0666">:</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b10" x="80.178" y="484.044" height="12.139" width="112.406">
+              <TEXT width="112.406" height="12.1389" id="p1_t11" x="80.178" y="480.827">
+                     <TOKEN sid="p1_s57" id="p1_w57" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="484.044" base="492.344" width="13.4464" height="11.0666">Pr.</TOKEN>
+                     <TOKEN sid="p1_s58" id="p1_w58" fixed-width="yes" bold="no" italic="no" font-size="15.356" font-color="#000000" rotation="0" angle="0" x="98.051" y="480.827" base="492.344" width="46.9687" height="15.356">Jean</TOKEN>
+                     <TOKEN sid="p1_s59" id="p1_w59" fixed-width="yes" bold="no" italic="no" font-size="15.356" font-color="#000000" rotation="0" angle="0" x="148.786" y="480.827" base="492.344" width="43.7982" height="15.356">Heureux</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b11" x="216.498" y="484.044" height="23.0216" width="277.146">
+              <TEXT width="217.379" height="11.0666" x="216.498" y="484.044" id="p1_t12">
+                     <TOKEN sid="p1_s60" id="p1_w60" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.498" y="484.044" base="492.344" width="50.2728" height="11.0666">Rapporteur</TOKEN>
+                     <TOKEN sid="p1_s61" id="p1_w61" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="270.088" y="484.044" base="492.344" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s62" id="p1_w62" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="278.386" y="484.044" base="492.344" width="44.848" height="11.0666">Professeur</TOKEN>
+                     <TOKEN sid="p1_s63" id="p1_w63" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="326.562" y="484.044" base="492.344" width="4.98031" height="11.0666">à</TOKEN>
+                     <TOKEN sid="p1_s64" id="p1_w64" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="334.86" y="484.044" base="492.344" width="49.6069" height="11.0666">l'Université</TOKEN>
+                     <TOKEN sid="p1_s65" id="p1_w65" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="387.784" y="484.044" base="492.344" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s66" id="p1_w66" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="401.062" y="484.044" base="492.344" width="32.8146" height="11.0666">Lorraine</TOKEN>
+              </TEXT>
+              <TEXT width="84.9426" height="11.0666" id="p1_t13" x="80.178" y="495.999">
+                     <TOKEN sid="p1_s67" id="p1_w67" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="495.999" base="504.299" width="14.2764" height="11.0666">Dr.</TOKEN>
+                     <TOKEN sid="p1_s68" id="p1_w68" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="98.8778" y="495.999" base="504.299" width="19.5326" height="11.0666">Virk</TOKEN>
+                     <TOKEN sid="p1_s69" id="p1_w69" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="121.738" y="495.999" base="504.299" width="17.1472" height="11.0666">Dan</TOKEN>
+                     <TOKEN sid="p1_s70" id="p1_w70" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="142.213" y="495.999" base="504.299" width="22.908" height="11.0666">Lester</TOKEN>
+              </TEXT>
+              <TEXT width="277.147" height="11.0666" x="216.498" y="495.999" id="p1_t14">
+                     <TOKEN sid="p1_s71" id="p1_w71" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.498" y="495.999" base="504.299" width="50.2728" height="11.0666">Rapporteur</TOKEN>
+                     <TOKEN sid="p1_s72" id="p1_w72" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="270.088" y="495.999" base="504.299" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s73" id="p1_w73" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="278.386" y="495.999" base="504.299" width="44.848" height="11.0666">Professeur</TOKEN>
+                     <TOKEN sid="p1_s74" id="p1_w74" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="326.561" y="495.999" base="504.299" width="4.98031" height="11.0666">à</TOKEN>
+                     <TOKEN sid="p1_s75" id="p1_w75" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="334.859" y="495.999" base="504.299" width="28.9151" height="11.0666">l'Ecole</TOKEN>
+                     <TOKEN sid="p1_s76" id="p1_w76" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="367.092" y="495.999" base="504.299" width="29.1848" height="11.0666">Royale</TOKEN>
+                     <TOKEN sid="p1_s77" id="p1_w77" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="399.604" y="495.999" base="504.299" width="37.3712" height="11.0666">Militaire</TOKEN>
+                     <TOKEN sid="p1_s78" id="p1_w78" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="440.303" y="495.999" base="504.299" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s79" id="p1_w79" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="453.581" y="495.999" base="504.299" width="40.0632" height="11.0666">Bruxelles</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b12" x="80.178" y="507.954" height="12.139" width="75.2208">
+              <TEXT width="75.2208" height="12.1389" id="p1_t15" x="80.178" y="504.737">
+                     <TOKEN sid="p1_s80" id="p1_w80" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="507.954" base="516.254" width="13.4464" height="11.0666">Pr.</TOKEN>
+                     <TOKEN sid="p1_s81" id="p1_w81" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="98.0478" y="507.954" base="516.254" width="23.138" height="11.0666">Pierre</TOKEN>
+                     <TOKEN sid="p1_s82" id="p1_w82" fixed-width="yes" bold="no" italic="no" font-size="15.356" font-color="#000000" rotation="0" angle="0" x="124.501" y="504.737" base="516.254" width="30.8978" height="15.356">Teyer</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b13" x="216.498" y="507.954" height="11.0666" width="235.255">
+              <TEXT width="235.255" height="11.0666" x="216.498" y="507.954" id="p1_t16">
+                     <TOKEN sid="p1_s83" id="p1_w83" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.498" y="507.954" base="516.254" width="56.3308" height="11.0666">Examinateur</TOKEN>
+                     <TOKEN sid="p1_s84" id="p1_w84" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="276.146" y="507.954" base="516.254" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s85" id="p1_w85" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="284.444" y="507.954" base="516.254" width="44.848" height="11.0666">Professeur</TOKEN>
+                     <TOKEN sid="p1_s86" id="p1_w86" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="332.62" y="507.954" base="516.254" width="4.98031" height="11.0666">à</TOKEN>
+                     <TOKEN sid="p1_s87" id="p1_w87" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="340.918" y="507.954" base="516.254" width="49.6069" height="11.0666">l'Université</TOKEN>
+                     <TOKEN sid="p1_s88" id="p1_w88" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="393.842" y="507.954" base="516.254" width="57.9105" height="11.0666">Aix-Marseille</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b14" x="80.178" y="519.91" height="12.139" width="101.352">
+              <TEXT width="101.352" height="12.1389" id="p1_t17" x="80.178" y="516.693">
+                     <TOKEN sid="p1_s89" id="p1_w89" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="519.91" base="528.21" width="13.4464" height="11.0666">Pr.</TOKEN>
+                     <TOKEN sid="p1_s90" id="p1_w90" fixed-width="yes" bold="no" italic="no" font-size="15.356" font-color="#000000" rotation="0" angle="0" x="98.051" y="516.693" base="528.21" width="39.6158" height="15.356">Etienne</TOKEN>
+                     <TOKEN sid="p1_s91" id="p1_w91" fixed-width="yes" bold="no" italic="no" font-size="15.356" font-color="#000000" rotation="0" angle="0" x="141.433" y="516.693" base="528.21" width="40.0971" height="15.356">Bravier</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b15" x="216.498" y="519.91" height="34.9766" width="232.753">
+              <TEXT width="223.437" height="11.0666" x="216.498" y="519.91" id="p1_t18">
+                     <TOKEN sid="p1_s92" id="p1_w92" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.498" y="519.91" base="528.21" width="56.3308" height="11.0666">Examinateur</TOKEN>
+                     <TOKEN sid="p1_s93" id="p1_w93" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="276.146" y="519.91" base="528.21" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s94" id="p1_w94" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="284.444" y="519.91" base="528.21" width="44.848" height="11.0666">Professeur</TOKEN>
+                     <TOKEN sid="p1_s95" id="p1_w95" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="332.62" y="519.91" base="528.21" width="4.98031" height="11.0666">à</TOKEN>
+                     <TOKEN sid="p1_s96" id="p1_w96" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="340.918" y="519.91" base="528.21" width="49.6069" height="11.0666">l'Université</TOKEN>
+                     <TOKEN sid="p1_s97" id="p1_w97" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="393.842" y="519.91" base="528.21" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s98" id="p1_w98" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="407.13" y="519.91" base="528.21" width="32.8047" height="11.0666">Lorraine</TOKEN>
+              </TEXT>
+              <TEXT width="90.6634" height="11.0666" id="p1_t19" x="80.178" y="531.865">
+                     <TOKEN sid="p1_s99" id="p1_w99" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="531.865" base="540.165" width="14.2764" height="11.0666">Dr.</TOKEN>
+                     <TOKEN sid="p1_s100" id="p1_w100" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="98.8778" y="531.865" base="540.165" width="29.606" height="11.0666">Jeanne</TOKEN>
+                     <TOKEN sid="p1_s101" id="p1_w101" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="131.801" y="531.865" base="540.165" width="39.04" height="11.0666">Turaglia</TOKEN>
+              </TEXT>
+              <TEXT width="282.87" height="11.0666" x="216.5" y="531.865" id="p1_t20">
+                     <TOKEN sid="p1_s102" id="p1_w102" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.5" y="531.865" base="540.165" width="57.9921" height="11.0666">Examinatrice</TOKEN>
+                     <TOKEN sid="p1_s103" id="p1_w103" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="277.81" y="531.865" base="540.165" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s104" id="p1_w104" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="286.107" y="531.865" base="540.165" width="29.0794" height="11.0666">Maître</TOKEN>
+                     <TOKEN sid="p1_s105" id="p1_w105" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="318.504" y="531.865" base="540.165" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s106" id="p1_w106" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="331.783" y="531.865" base="540.165" width="45.1275" height="11.0666">conférence</TOKEN>
+                     <TOKEN sid="p1_s107" id="p1_w107" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="380.238" y="531.865" base="540.165" width="4.98031" height="11.0666">à</TOKEN>
+                     <TOKEN sid="p1_s108" id="p1_w108" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="388.535" y="531.865" base="540.165" width="49.6069" height="11.0666">l'Université</TOKEN>
+                     <TOKEN sid="p1_s109" id="p1_w109" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="441.46" y="531.865" base="540.165" width="57.9105" height="11.0666">Aix-Marseille</TOKEN>
+              </TEXT>
+              <TEXT width="90.8973" height="11.0666" id="p1_t21" x="80.178" y="543.82">
+                     <TOKEN sid="p1_s110" id="p1_w110" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="543.82" base="552.12" width="14.2764" height="11.0666">Dr.</TOKEN>
+                     <TOKEN sid="p1_s111" id="p1_w111" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="98.8778" y="543.82" base="552.12" width="40.008" height="11.0666">Philippo</TOKEN>
+                     <TOKEN sid="p1_s112" id="p1_w112" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="142.203" y="543.82" base="552.12" width="28.8719" height="11.0666">Marcia</TOKEN>
+              </TEXT>
+              <TEXT width="232.756" height="11.0666" x="216.495" y="543.82" id="p1_t22">
+                     <TOKEN sid="p1_s113" id="p1_w113" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.495" y="543.82" base="552.12" width="53.6494" height="11.0666">Responsable</TOKEN>
+                     <TOKEN sid="p1_s114" id="p1_w114" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="273.462" y="543.82" base="552.12" width="21.4422" height="11.0666">GEA</TOKEN>
+                     <TOKEN sid="p1_s115" id="p1_w115" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="298.231" y="543.82" base="552.12" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s116" id="p1_w116" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="306.529" y="543.82" base="552.12" width="20.1971" height="11.0666">Chef</TOKEN>
+                     <TOKEN sid="p1_s117" id="p1_w117" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="330.044" y="543.82" base="552.12" width="11.0666" height="11.0666">du</TOKEN>
+                     <TOKEN sid="p1_s118" id="p1_w118" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="344.428" y="543.82" base="552.12" width="29.6342" height="11.0666">groupe</TOKEN>
+                     <TOKEN sid="p1_s119" id="p1_w119" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="377.38" y="543.82" base="552.12" width="33.2704" height="11.0666">VMICS</TOKEN>
+                     <TOKEN sid="p1_s120" id="p1_w120" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="413.978" y="543.82" base="552.12" width="10.5036" height="11.0666">au</TOKEN>
+                     <TOKEN sid="p1_s121" id="p1_w121" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="427.809" y="543.82" base="552.12" width="21.4422" height="11.0666">GEA</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b16" x="80.178" y="555.775" height="12.139" width="97.9258">
+              <TEXT width="97.9258" height="12.1389" id="p1_t23" x="80.178" y="552.558">
+                     <TOKEN sid="p1_s122" id="p1_w122" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="80.178" y="555.775" base="564.075" width="14.2764" height="11.0666">Dr.</TOKEN>
+                     <TOKEN sid="p1_s123" id="p1_w123" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="98.8778" y="555.775" base="564.075" width="35.0585" height="11.0666">Antoine</TOKEN>
+                     <TOKEN sid="p1_s124" id="p1_w124" fixed-width="yes" bold="no" italic="no" font-size="15.356" font-color="#000000" rotation="0" angle="0" x="137.256" y="552.558" base="564.075" width="40.8478" height="15.356">Fimvreaux</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b17" x="216.498" y="555.775" height="23.0216" width="54.0875">
+              <TEXT width="315.327" height="11.0666" x="216.498" y="555.775" id="p1_t24">
+                     <TOKEN sid="p1_s125" id="p1_w125" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.498" y="555.775" base="564.075" width="40.8657" height="11.0666">Directeur</TOKEN>
+                     <TOKEN sid="p1_s126" id="p1_w126" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="260.681" y="555.775" base="564.075" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s127" id="p1_w127" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="273.959" y="555.775" base="564.075" width="22.1895" height="11.0666">thèse</TOKEN>
+                     <TOKEN sid="p1_s128" id="p1_w128" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="299.476" y="555.775" base="564.075" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s129" id="p1_w129" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="307.774" y="555.775" base="564.075" width="20.1971" height="11.0666">Chef</TOKEN>
+                     <TOKEN sid="p1_s130" id="p1_w130" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="331.289" y="555.775" base="564.075" width="11.0666" height="11.0666">du</TOKEN>
+                     <TOKEN sid="p1_s131" id="p1_w131" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="345.673" y="555.775" base="564.075" width="29.1346" height="11.0666">service</TOKEN>
+                     <TOKEN sid="p1_s132" id="p1_w132" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="378.125" y="555.775" base="564.075" width="9.97059" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s133" id="p1_w133" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="391.413" y="555.775" base="564.075" width="39.2013" height="11.0666">Physique</TOKEN>
+                     <TOKEN sid="p1_s134" id="p1_w134" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="433.932" y="555.775" base="564.075" width="13.889" height="11.0666">des</TOKEN>
+                     <TOKEN sid="p1_s135" id="p1_w135" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="451.149" y="555.775" base="564.075" width="35.6535" height="11.0666">Plasmas</TOKEN>
+                     <TOKEN sid="p1_s136" id="p1_w136" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="490.13" y="555.775" base="564.075" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s137" id="p1_w137" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="503.408" y="555.775" base="564.075" width="28.4168" height="11.0666">Fusion</TOKEN>
+              </TEXT>
+              <TEXT width="54.0875" height="11.0666" id="p1_t25" x="216.498" y="567.73">
+                     <TOKEN sid="p1_s138" id="p1_w138" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="216.498" y="567.73" base="576.03" width="29.3277" height="11.0666">IGFM,</TOKEN>
+                     <TOKEN sid="p1_s139" id="p1_w139" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="249.143" y="567.73" base="576.03" width="21.4422" height="11.0666">GEA</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b18" x="257.07" y="604.108" height="11.0666" width="97.8602">
+              <TEXT width="97.8602" height="11.0666" x="257.07" y="604.108" id="p1_t26">
+                     <TOKEN sid="p1_s140" id="p1_w140" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="257.07" y="604.108" base="612.408" width="50.8282" height="11.0666">Laboratoire</TOKEN>
+                     <TOKEN sid="p1_s141" id="p1_w141" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="311.216" y="604.108" base="612.408" width="37.6306" height="11.0666">d'accueil</TOKEN>
+                     <TOKEN sid="p1_s142" id="p1_w142" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="352.163" y="604.108" base="612.408" width="2.76724" height="11.0666">:</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b19" x="163.099" y="614.341" height="13.3626" width="285.803">
+              <TEXT width="285.803" height="13.3624" x="163.099" y="614.341" id="p1_t27">
+                     <TOKEN sid="p1_s143" id="p1_w143" fixed-width="yes" bold="no" italic="no" font-size="13.3624" font-color="#000000" rotation="0" angle="0" x="163.099" y="614.341" base="624.363" width="33.7247" height="13.3624">Institut</TOKEN>
+                     <TOKEN sid="p1_s144" id="p1_w144" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="200.141" y="616.063" base="624.363" width="9.96062" height="11.0666">de</TOKEN>
+                     <TOKEN sid="p1_s145" id="p1_w145" fixed-width="yes" bold="no" italic="no" font-size="13.3624" font-color="#000000" rotation="0" angle="0" x="213.425" y="614.341" base="624.363" width="45.1371" height="13.3624">Recherche</TOKEN>
+                     <TOKEN sid="p1_s146" id="p1_w146" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="261.88" y="616.063" base="624.363" width="13.3724" height="11.0666">sur</TOKEN>
+                     <TOKEN sid="p1_s147" id="p1_w147" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="278.57" y="616.063" base="624.363" width="7.74755" height="11.0666">la</TOKEN>
+                     <TOKEN sid="p1_s148" id="p1_w148" fixed-width="yes" bold="no" italic="no" font-size="13.3624" font-color="#000000" rotation="0" angle="0" x="289.635" y="614.341" base="624.363" width="29.9495" height="13.3624">Fusion</TOKEN>
+                     <TOKEN sid="p1_s149" id="p1_w149" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="322.902" y="616.063" base="624.363" width="14.4144" height="11.0666">par</TOKEN>
+                     <TOKEN sid="p1_s150" id="p1_w150" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="340.644" y="616.063" base="624.363" width="52.2902" height="11.0666">connement</TOKEN>
+                     <TOKEN sid="p1_s151" id="p1_w151" fixed-width="yes" bold="no" italic="no" font-size="13.3624" font-color="#000000" rotation="0" angle="0" x="396.251" y="614.341" base="624.363" width="52.6515" height="13.3624">Magnétique</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b20" x="266.63" y="628.018" height="23.0216" width="121.084">
+              <TEXT width="78.745" height="11.0666" x="266.63" y="628.018" id="p1_t28">
+                     <TOKEN sid="p1_s152" id="p1_w152" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="266.63" y="628.018" base="636.318" width="21.4422" height="11.0666">GEA</TOKEN>
+                     <TOKEN sid="p1_s153" id="p1_w153" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="291.39" y="628.018" base="636.318" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s154" id="p1_w154" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="299.688" y="628.018" base="636.318" width="45.6873" height="11.0666">Cadarache</TOKEN>
+              </TEXT>
+              <TEXT width="163.429" height="11.0666" id="p1_t29" x="224.285" y="639.973">
+                     <TOKEN sid="p1_s155" id="p1_w155" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="224.285" y="639.973" base="648.273" width="24.9016" height="11.0666">13108</TOKEN>
+                     <TOKEN sid="p1_s156" id="p1_w156" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="252.504" y="639.973" base="648.273" width="102.949" height="11.0666">Saint-Paul-lez-Durance,</TOKEN>
+                     <TOKEN sid="p1_s157" id="p1_w157" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="358.771" y="639.973" base="648.273" width="28.9434" height="11.0666">France</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b21" x="260.211" y="676.463">
+              <TEXT width="91.5778" height="11.0666" id="p1_t30" x="260.211" y="676.463">
+                     <TOKEN sid="p1_s158" id="p1_w158" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="260.211" y="676.463" base="684.763" width="16.0469" height="11.0666">Oct</TOKEN>
+                     <TOKEN sid="p1_s159" id="p1_w159" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="279.575" y="676.463" base="684.763" width="19.9212" height="11.0666">2015</TOKEN>
+                     <TOKEN sid="p1_s160" id="p1_w160" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="302.814" y="676.463" base="684.763" width="4.98031" height="11.0666" />
+                     <TOKEN sid="p1_s161" id="p1_w161" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="311.122" y="676.463" base="684.763" width="17.428" height="11.0666">Nov</TOKEN>
+                     <TOKEN sid="p1_s162" id="p1_w162" bold="no" italic="no" font-size="11.0666" font-color="#000000" rotation="0" angle="0" x="331.868" y="676.463" base="684.763" width="19.9212" height="11.0666">2019</TOKEN>
+              </TEXT>
+       </BLOCK>
+</DOCUMENT>

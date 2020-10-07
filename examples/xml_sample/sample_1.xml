@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCUMENT>
+       <METADATA>
+              <PDFFILENAME>sample_1.pdf</PDFFILENAME>
+              <PROCESS name="pdftoxml" cmd="-noImage -blocks ">
+                     <VERSION value="2.0">
+                            <COMMENT />
+                     </VERSION>
+                     <CREATIONDATE>Tue Sep 29 14:20:29 2020
+</CREATIONDATE>
+              </PROCESS>
+       </METADATA>
+       <BLOCK id="p1_b12" x="282.3" y="454.8" height="16.408" width="31.052">
+              <TEXT width="31.052" height="16.408" id="p1_t13" x="282.3" y="454.8">
+                     <TOKEN sid="p1_s84" id="p1_w75" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="14" font-color="#000000" rotation="0" angle="0" x="282.3" y="454.8" base="468.1" width="31.052" height="16.408">JURY</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b13" x="70.825" y="504.32" height="14.064" width="359.151">
+              <TEXT width="123.348" height="14.064" id="p1_t14" x="70.825" y="504.32">
+                     <TOKEN sid="p1_s87" id="p1_w76" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="70.825" y="504.32" base="515.72" width="52.56" height="14.064">Directrice</TOKEN>
+                     <TOKEN sid="p1_s88" id="p1_w77" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="125.413" y="504.32" base="515.72" width="13.368" height="14.064">de</TOKEN>
+                     <TOKEN sid="p1_s89" id="p1_w78" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="140.809" y="504.32" base="515.72" width="53.364" height="14.064">recherche</TOKEN>
+              </TEXT>
+              <TEXT width="182.096" height="14.064" id="p1_t15" x="247.88" y="504.32">
+                     <TOKEN sid="p1_s90" id="p1_w79" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="504.32" base="515.72" width="41.964" height="14.064">Carole</TOKEN>
+                     <TOKEN sid="p1_s91" id="p1_w80" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="291.872" y="504.32" base="515.72" width="50.592" height="14.064">GRANIER,</TOKEN>
+                     <TOKEN sid="p1_s92" id="p1_w81" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="344.5" y="504.32" base="515.72" width="58.276" height="14.064">Professeure</TOKEN>
+                     <TOKEN sid="p1_s93" id="p1_w82" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="404.92" y="504.32" base="515.72" width="25.056" height="14.064">HDR,</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b14" x="247.88" y="525.32" height="14.064" width="115.056">
+              <TEXT width="115.056" height="14.064" id="p1_t16" x="247.88" y="525.32">
+                     <TOKEN sid="p1_s95" id="p1_w83" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="525.32" base="536.72" width="35.292" height="14.064">KLEIN</TOKEN>
+                     <TOKEN sid="p1_s96" id="p1_w84" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="285.272" y="525.32" base="536.72" width="43.176" height="14.064">Business</TOKEN>
+                     <TOKEN sid="p1_s97" id="p1_w85" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="330.488" y="525.32" base="536.72" width="32.448" height="14.064">School</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b15" x="70.825" y="562.32" height="14.064" width="405.785">
+              <TEXT width="66.888" height="14.064" id="p1_t17" x="70.825" y="562.32">
+                     <TOKEN sid="p1_s99" id="p1_w86" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="70.825" y="562.32" base="573.72" width="66.888" height="14.064">Rapporteurs</TOKEN>
+              </TEXT>
+              <TEXT width="228.73" height="14.064" id="p1_t18" x="247.88" y="562.32">
+                     <TOKEN sid="p1_s103" id="p1_w87" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="562.32" base="573.72" width="52.784" height="14.064">Philippe</TOKEN>
+                     <TOKEN sid="p1_s104" id="p1_w88" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="302.896" y="562.32" base="573.72" width="40.38" height="14.064">BOYAD,</TOKEN>
+                     <TOKEN sid="p1_s105" id="p1_w89" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="345.3" y="562.32" base="573.72" width="52.776" height="14.064">Professeur</TOKEN>
+                     <TOKEN sid="p1_s106" id="p1_w90" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="400.104" y="562.32" base="573.72" width="16.956" height="14.064">des</TOKEN>
+                     <TOKEN sid="p1_s107" id="p1_w91" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="419.1" y="562.32" base="573.72" width="57.51" height="14.064">Universités,</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b16" x="247.88" y="583.32" height="14.064" width="205.018">
+              <TEXT width="205.018" height="14.064" id="p1_t19" x="247.88" y="583.32">
+                     <TOKEN sid="p1_s113" id="p1_w92" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="583.32" base="594.72" width="68.676" height="14.064">Conservatoire</TOKEN>
+                     <TOKEN sid="p1_s114" id="p1_w93" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="318.5" y="583.32" base="594.72" width="41.664" height="14.064">National</TOKEN>
+                     <TOKEN sid="p1_s115" id="p1_w94" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="362.108" y="583.32" base="594.72" width="16.956" height="14.064">des</TOKEN>
+                     <TOKEN sid="p1_s116" id="p1_w95" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="381.308" y="583.32" base="594.72" width="20.556" height="14.064">Arts</TOKEN>
+                     <TOKEN sid="p1_s117" id="p1_w96" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="404.13" y="583.32" base="594.72" width="9.456" height="14.064">et</TOKEN>
+                     <TOKEN sid="p1_s118" id="p1_w97" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="415.734" y="583.32" base="594.72" width="37.164" height="14.064">Métiers</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b17" x="247.88" y="604.52" height="14.064" width="276.774">
+              <TEXT width="276.774" height="14.064" id="p1_t20" x="247.88" y="604.52">
+                     <TOKEN sid="p1_s119" id="p1_w98" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="604.52" base="615.92" width="44.172" height="14.064">Anne</TOKEN>
+                     <TOKEN sid="p1_s120" id="p1_w99" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="299.9" y="604.52" base="615.92" width="96.404" height="14.064">BIENFIT,</TOKEN>
+                     <TOKEN sid="p1_s121" id="p1_w100" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="404.33" y="604.52" base="615.92" width="32.256" height="14.064">Maître</TOKEN>
+                     <TOKEN sid="p1_s122" id="p1_w101" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="444.518" y="604.52" base="615.92" width="12.252" height="14.064">de</TOKEN>
+                     <TOKEN sid="p1_s123" id="p1_w102" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="464.498" y="604.52" base="615.92" width="60.156" height="14.064">Conférences</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b18" x="247.88" y="625.55" height="14.064" width="127.976">
+              <TEXT width="127.976" height="14.064" id="p1_t21" x="247.88" y="625.55">
+                     <TOKEN sid="p1_s124" id="p1_w103" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="625.55" base="636.95" width="25.056" height="14.064">HDR,</TOKEN>
+                     <TOKEN sid="p1_s125" id="p1_w104" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="275.08" y="625.55" base="636.95" width="50.46" height="14.064">Université</TOKEN>
+                     <TOKEN sid="p1_s126" id="p1_w105" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="327.484" y="625.55" base="636.95" width="12.252" height="14.064">de</TOKEN>
+                     <TOKEN sid="p1_s127" id="p1_w106" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="341.68" y="625.55" base="636.95" width="34.176" height="14.064">Nantes</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b19" x="70.825" y="662.55" height="14.064" width="267.619">
+              <TEXT width="59.712" height="14.064" id="p1_t22" x="70.825" y="662.55">
+                     <TOKEN sid="p1_s130" id="p1_w107" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="70.825" y="662.55" base="673.95" width="59.712" height="14.064">Suffragants</TOKEN>
+              </TEXT>
+              <TEXT width="90.564" height="14.064" id="p1_t23" x="247.88" y="662.55">
+                     <TOKEN sid="p1_s132" id="p1_w108" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="662.55" base="673.95" width="48.84" height="14.064">François</TOKEN>
+                     <TOKEN sid="p1_s133" id="p1_w109" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="298.868" y="662.55" base="673.95" width="39.576" height="14.064">BARITON,</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b20" x="247.88" y="683.55" height="14.064" width="236.904">
+              <TEXT width="236.904" height="14.064" id="p1_t24" x="247.88" y="683.55">
+                     <TOKEN sid="p1_s135" id="p1_w110" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="683.55" base="694.95" width="48.756" height="14.064">Directeur</TOKEN>
+                     <TOKEN sid="p1_s136" id="p1_w111" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="299.276" y="683.55" base="694.95" width="13.188" height="14.064">du</TOKEN>
+                     <TOKEN sid="p1_s137" id="p1_w112" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="315.044" y="683.55" base="694.95" width="22.44" height="14.064">Pôle</TOKEN>
+                     <TOKEN sid="p1_s138" id="p1_w113" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="340.028" y="683.55" base="694.95" width="42.324" height="14.064">Services</TOKEN>
+                     <TOKEN sid="p1_s139" id="p1_w114" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="385.16" y="683.55" base="694.95" width="5.856" height="14.064">à</TOKEN>
+                     <TOKEN sid="p1_s140" id="p1_w115" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="393.56" y="683.55" base="694.95" width="9.24" height="14.064">la</TOKEN>
+                     <TOKEN sid="p1_s141" id="p1_w116" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="405.344" y="683.55" base="694.95" width="48.432" height="14.064">Personne</TOKEN>
+                     <TOKEN sid="p1_s142" id="p1_w117" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="456.32" y="683.55" base="694.95" width="28.464" height="14.064">ISÈRE</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b21" x="247.88" y="704.75" height="14.064" width="251.93">
+              <TEXT width="251.93" height="14.064" id="p1_t25" x="247.88" y="704.75">
+                     <TOKEN sid="p1_s143" id="p1_w118" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="704.75" base="716.15" width="40.956" height="14.064">Solène</TOKEN>
+                     <TOKEN sid="p1_s144" id="p1_w119" font-name="cambria,bold" fixed-width="yes" bold="yes" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="291.068" y="704.75" base="716.15" width="69.792" height="14.064">FERNANDEZ,</TOKEN>
+                     <TOKEN sid="p1_s145" id="p1_w120" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="362.92" y="704.75" base="716.15" width="58.456" height="14.064">Professeure</TOKEN>
+                     <TOKEN sid="p1_s146" id="p1_w121" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="423.33" y="704.75" base="716.15" width="16.956" height="14.064">des</TOKEN>
+                     <TOKEN sid="p1_s147" id="p1_w122" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="442.326" y="704.75" base="716.15" width="57.484" height="14.064">Universités,</TOKEN>
+              </TEXT>
+       </BLOCK>
+       <BLOCK id="p1_b22" x="247.88" y="725.57">
+              <TEXT width="124.056" height="14.064" id="p1_t26" x="247.88" y="725.57">
+                     <TOKEN sid="p1_s148" id="p1_w123" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="247.88" y="725.57" base="736.97" width="50.256" height="14.064">Université</TOKEN>
+                     <TOKEN sid="p1_s149" id="p1_w124" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="300.284" y="725.57" base="736.97" width="24.588" height="14.064">d’Aix</TOKEN>
+                     <TOKEN sid="p1_s150" id="p1_w125" font-name="cambria" bold="no" italic="no" font-size="12" font-color="#000000" rotation="0" angle="0" x="326.876" y="725.57" base="736.97" width="45.06" height="14.064">Marseille</TOKEN>
+              </TEXT>
+       </BLOCK>
+</DOCUMENT>
