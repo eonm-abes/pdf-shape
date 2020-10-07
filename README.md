@@ -19,7 +19,6 @@ Implemented :
 - Shape extraction
 - Spacing extraction
 - Style extraction
-- Style extraction
 - Blocks extraction (get all the block elements of a given document)
 - Texts extraction (get all the text elements of a given document)
 - Tokens extraction (get all the token elements of a given document)
