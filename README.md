@@ -8,7 +8,7 @@
 
 </div>
 
-PDF-shape is a Rust library dedicated to analyse XML files produced by pdf2xml
+PDF-shape is a Rust library dedicated to analyse XML files produced by [pdf2xml](https://github.com/kermitt2/pdf2xml)
 
 ## Features
 
